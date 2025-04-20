@@ -1,5 +1,6 @@
 
-import "../styles/partners.css";
+import "../styles/Partners.css";
+
 function Partners(props) {
   return (
     <div className="partner-list">
